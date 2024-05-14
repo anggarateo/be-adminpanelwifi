@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "backend-wifipanel",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Ini command test\" && exit 1",
     "start": "nodemon index.js"
   },
-  "author": "teo anggara",
+  "author": "Teo Anggara",
   "license": "ISC",
   "dependencies": {
     "address": "^1.2.2",
